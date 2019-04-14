@@ -1,0 +1,1 @@
+import 'package:pian_bol/note.dart'; List<Note> initNotes() { return [Note(0, 0),Note(1, 1),Note(2, 2),Note(3, 1),Note(4, 3),Note(5, 0),Note(6, 1),Note(7, 2),Note(8, 3),Note(9, 2),Note(10, 3),]; }
